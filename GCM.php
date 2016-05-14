@@ -1,5 +1,5 @@
 <?php
-//ajuste
+//ajuste para saber si funciona. :)
 require("config/configuracion.php");
 require("config/conexion.php");
 // API access key from Google API's Console
