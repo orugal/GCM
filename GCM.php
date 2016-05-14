@@ -1,4 +1,10 @@
 <?php
+/*
+	Google Cloud Messages
+	@author Farez Prieto
+	@date 20 Febrero 2016
+*/
+
 //ajuste para saber si funciona. :) WOW!!
 require("config/configuracion.php");
 require("config/conexion.php");
