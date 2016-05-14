@@ -14,7 +14,7 @@ if($accion == 1)
 
 	if(count($result) > 0)
 	{
-		$salida = array("mensaje"=>"Buenvenido",
+		$salida = array("mensaje"=>"Bienvenido",
 						"datos"=>$result[0],
 						"continuar"=>1);
 	}
